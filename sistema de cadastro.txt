@@ -1,0 +1,5 @@
+seu nome:
+seu email:
+sua senha:
+sua idade:
+sua cidade:
