@@ -2,3 +2,5 @@ olá meu nome é isaque
 olá eu sou uma nova linha
 agora eu to fazendo mais um teste de pratica
 
+agora estou alterando para mostrar que estou dentro da branch staging
+
